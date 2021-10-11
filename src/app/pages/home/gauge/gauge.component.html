@@ -1,0 +1,23 @@
+<div class="container-fluid mt-5">
+  <div class="row">
+     <div class="col-xs-6 col-lg-6 text-center">
+        <ngx-gauge 
+           [value]="gaugeValueSugar" 
+           [label]="gaugeLabelSugar"  
+           [append]="gaugeAppendTextSugar"
+           [thick]="10"
+           [max]="300">
+        </ngx-gauge>
+     </div>
+
+     <div class="col-xs-6 col-lg-6 text-center">
+        <ngx-gauge 
+           [value]="gaugeValueSalt" 
+           [label]="gaugeLabelSalt"  
+           [append]="gaugeAppendTextSalt"
+           [thick]="10"
+           [max] ="300">
+        </ngx-gauge>
+     </div>
+ </div>
+</div>

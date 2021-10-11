@@ -1,0 +1,46 @@
+/** Mobile First**/
+p{
+	font-size: 10px;
+}
+
+.kenko-bg{
+	/*background-image: url(/../../../assets/images/analyze.jpg);*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.stay-left{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.stay-right{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+/*** デスクトップ/タブレット横 ***/
+@media screen and (min-width: 769px){
+	
+	p{
+		font-size: 30px;
+	}
+	.kenko-bg{
+		background-image: url(/../../../assets/images/kenko-bg.JPG);
+		background-size: cover;
+		background-repeat: no-repeat;
+		width: auto;
+		height: 100vh;
+	}
+	.stay-left{
+		position: absolute;
+		left: 0;
+		bottom: 100;
+	}
+	.stay-right{
+		position: absolute;
+		right: 0;
+		bottom: 100;
+	}
+
+}
