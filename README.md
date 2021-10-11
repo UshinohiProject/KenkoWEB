@@ -2,14 +2,14 @@
 
 ヤフー株式会社 主催　2021 Digital Hack Day 決勝作品。
 
-![alt text](https://github.com/UshinohiProject/kenkoWeb/blob/master/src/assets/github/けんこちゃんサムネ.jpg)
+![alt text](https://github.com/UshinohiProject/kenkoWeb/blob/main/src/assets/github/けんこちゃんサムネ.jpg)
 
 https://www.youtube.com/watch?v=w_Fb7wVX0bA ( 決勝戦の様子＠Youtube)
 
 
 DashBoardイメージ：
 
-![alt text](https://github.com/UshinohiProject/kenkoWeb/blob/master/src/assets/github/gui_view.png)
+![alt text](https://github.com/UshinohiProject/kenkoWeb/blob/main/src/assets/github/gui_view.png)
 
 ---
 
